@@ -1,0 +1,12 @@
+[
+  {
+    "ContainingType": "ProcessController",
+    "Method": "StartProcess",
+    "RelativePath": "api/Process/start-process",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  }
+]
